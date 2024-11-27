@@ -1,0 +1,29 @@
+State Bank of India wants to calculate the simple interest on savings accounts. The 
+bank offers a principal amount of ₹50,000 at an annual interest rate of 5.5% for a 
+time period of 3 years. Write a program to calculate and display the simple interest. 
+Code:  
+        //Practical 3: Calculate Simple Interest For Given Value. 
+ 
+ 
+#include<stdio.h> 
+void main() 
+{ 
+    float Principal_Amount; 
+    float Interest_Rate; 
+    float Time_Period; 
+ 
+            // Given Value 
+ 
+            Principal_Amount=50000; 
+            Interest_Rate=0.055; 
+            Time_Period=3; 
+ 
+            // Print Simple Interest 
+ 
+     printf("Your Simple Interest=%f\n\n\n\n\n\n\n",Principal_Amount*Interest_Rate* 
+Time_Period); 
+ 
+printf("24ce032_TARANG"); 
+   
+} 
+
